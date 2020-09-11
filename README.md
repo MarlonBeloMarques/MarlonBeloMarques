@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm [Marlon Marques](https://www.github.com/MarlonBeloMarques)
 
 <!--
 **MarlonBeloMarques/MarlonBeloMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Marlon Marques](https://github.com/MarlonBeloMarques/MarlonBeloMarques/blob/master/readme/apresentation.png?raw=true)
+
+Introduce me an idea and if it is a good idea, you can be sure that I will come across this adventure! I am passionate about development, especially with a good presentation. I like to contribute to open source projects, and not only that, I love a beautiful cafe and venture out on the trails of the world.
+
+<br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-marlonmarques-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-marques-0b509813b/)](https://www.linkedin.com/in/marlon-marques-0b509813b/)
+[![Instagram Badge](https://img.shields.io/badge/-marlonmarques-black?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/marlonmarqsbr/)](https://www.instagram.com/marlonmarqsbr/)
+[![Facebook Badge](https://img.shields.io/badge/-marlonmarqs-black?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/MarloMarqs)](https://www.facebook.com/MarloMarqs)

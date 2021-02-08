@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Marlon Marques](https://github.com/MarlonBeloMarques/MarlonBeloMarques/blob/master/readme/apresentation.png?raw=true)
 
-Introduce me an idea and if it is a good idea, you can be sure that I will come across this adventure! I am passionate about development, especially with a good presentation. I like to contribute to open source projects, and not only that, I love a beautiful cafe and venture out on the trails of the world.
+Enthusiastic about good ideas, just let me get my coffee and let's develop this idea. Passionate about good interfaces but I also love to develop good architecture, I love to venture not only in development but also in life.
 
 <br/>
 

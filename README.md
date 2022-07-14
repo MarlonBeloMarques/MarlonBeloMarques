@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Marlon Marques](https://github.com/MarlonBeloMarques/MarlonBeloMarques/blob/master/readme/apresentation.png?raw=true)
 
-Enthusiastic about good ideas, just let me get my coffee and let's develop this idea. Passionate about good interfaces but I also love to develop good architecture, I love to venture not only in development but also in life.
+Graduated in Computer Science, working mainly with Mobile Application Development, I am a big Enthusiast in TDD and Clean Architecture. If you're looking for me, go to a Coffee shop, I must be coding there.
 
 <br/>
 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Marlon Marques](https://github.com/MarlonBeloMarques/MarlonBeloMarques/blob/master/readme/apresentation.png?raw=true)
+![Marlon Marques](https://github.com/MarlonBeloMarques/MarlonBeloMarques/blob/master/readme/background.png?raw=true)
 
 Graduated in Computer Science, working mainly with Mobile Application Development, I am a big Enthusiast in TDD and Clean Architecture. If you're looking for me, go to a Coffee shop, I must be coding there.
 

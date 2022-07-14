@@ -21,5 +21,4 @@ Graduated in Computer Science, working mainly with Mobile Application Developmen
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-marlonmarques-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlon-marques-0b509813b/)](https://www.linkedin.com/in/marlon-marques-0b509813b/)
-[![Instagram Badge](https://img.shields.io/badge/-marlonmarques-black?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/marlonmarqsbr/)](https://www.instagram.com/marlonmarqsbr/)
-[![Facebook Badge](https://img.shields.io/badge/-marlonmarqs-black?style=flat-square&logo=Facebook&logoColor=white&link=https://https://www.facebook.com/MarloMarqs)](https://www.facebook.com/MarloMarqs)
+[![Instagram Badge](https://img.shields.io/badge/-marlonmarques-black?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/marlonbelomarques/)](https://www.instagram.com/marlonbelomarques/)
